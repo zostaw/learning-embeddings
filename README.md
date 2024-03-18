@@ -1,3 +1,3 @@
 # Learning embeddings
 
-My embeddings learning notebooks.
+My kaggle notebooks for learning embeddings.  
