@@ -1,0 +1,5 @@
+shakespeare.txt
+db.sqlite3
+text_words.pkl
+.ipynb_checkpoints
+__pycache__/
