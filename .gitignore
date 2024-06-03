@@ -3,3 +3,5 @@ db.sqlite3
 text_words.pkl
 .ipynb_checkpoints
 __pycache__/
+.vscode/
+hf_*/
