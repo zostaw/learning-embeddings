@@ -5,3 +5,9 @@ text_words.pkl
 __pycache__/
 .vscode/
 hf_*/
+build-dataset.py
+dataset/
+model-back.pth
+model-shakespare-back.pth
+model.pth
+
